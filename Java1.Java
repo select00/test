@@ -1,5 +1,0 @@
-<?java
-
-javainfo();
-
-111
